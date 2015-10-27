@@ -1,0 +1,25 @@
+{
+  "name": "gtca",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "dependencies": {
+    "randomstring": "^1.1.0"
+  },
+  "devDependencies": {
+    "randomstring": "^1.1.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bocasfx/gtca.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bocasfx/gtca/issues"
+  },
+  "homepage": "https://github.com/bocasfx/gtca#readme"
+}
